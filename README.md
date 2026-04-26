@@ -23,3 +23,9 @@ And then, lo and behold, I was able to generate this image in a little over 3 mi
 ![chillipeppers](./chilipeppers.png)
 
 I'm sure there are many more optimizations to be made, but I have reached the end of the time box that I allocated towards this, so leaving this as is.
+
+How to run:
+
+1. Clone this repo (or just download chillipeppers.py)
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the script: `python chillipeppers.py`
